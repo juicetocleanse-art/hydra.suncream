@@ -1,8 +1,5 @@
-.product-image {
-  display: block;       /* 인라인 간격 제거 */
-  margin: 0;            /* 기본 여백 제거 */
-  padding: 0;           /* 패딩 제거 */
-}
+
+
 <img src="hydra_filter_sun_sp01.jpg" class="product-image" style="height: auto;">
 <img src="hydra_filter_sun_sp02.jpg" class="product-image" style="height: auto;">
 <img src="hydra_filter_sun_sp03-1.jpg" class="product-image" style="height: auto;">
