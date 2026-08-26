@@ -2,18 +2,7 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
-  <style>
-    .image-container {
-      font-size: 0; /* 인라인 간격 제거 */
-    }
-    .product-image {
-      display: inline-block;
-      margin: 0;
-      padding: 0;
-      vertical-align: top;
-    }
-  </style>
-</head>
+  </head>
 <body>
   <div class="image-container">
     <img src="hydra_filter_sun_sp01.jpg" class="product-image">
